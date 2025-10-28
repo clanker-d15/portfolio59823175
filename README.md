@@ -6,6 +6,8 @@
 
 This calculator combines essential arithmetic and scientific functions in a compact design. It includes number keys, four basic operators, and a decimal point for a more precise input. This calculator also has advanced features like a square root button, power function, and pi key in order to support more complex calculations. A positive/negative toggle lets you switch number signs easily, while the clear and equals buttons help manage and complete equations efficiently.
 
+![UML](https://github.com/clanker-d15/portfolio59823175/blob/main/images/Untitled%20Diagram.jpg)
+
 ![RunningCalculator](https://github.com/clanker-d15/portfolio59823175/blob/main/images/Calc.png?raw=true)
 
  * [Windows](https://github.com/clanker-d15/portfolio59823175/blob/main/src/Calc/windows-amd64.zip)
