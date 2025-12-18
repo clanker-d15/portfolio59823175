@@ -1,4 +1,4 @@
-# Franklin Roth's Programming Portfolio | 2026
+# Programming Portfolio | Franklin Roth | Contact Info: 9660313@graniteschools.org
 
 ## Term 1 Projects
 
