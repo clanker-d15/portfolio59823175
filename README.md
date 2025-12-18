@@ -1,9 +1,10 @@
 # Programming Portfolio | Franklin Roth | Contact Info: 9660313@graniteschools.org
 
-## Certificate:  file:///Users/9660313/Programming/Franklin%20Roth_Computer%20Programming%201_12162025.pdf
+##### Certificate: file:///Users/9660313/Programming/Franklin%20Roth_Computer%20Programming%201_12162025.pdf
 
 
-### Term 1 Projects
+
+## Term 1 Projects
 
 #### Calculator (2025)
 
@@ -16,3 +17,9 @@ This calculator combines essential arithmetic and scientific functions in a comp
  * [Windows](https://github.com/clanker-d15/portfolio59823175/blob/main/src/Calc/windows-amd64.zip)
  * [MacOS](https://github.com/clanker-d15/portfolio59823175/blob/main/src/Calc/macos-x86_64.zip)
  * [SourceCode](https://github.com/clanker-d15/portfolio59823175/tree/main/src/Calc)
+
+## Term 2 Projects
+
+#### Tank Game (Group Project)
+
+##### Link to Repo: https://github.com/Clanker-1/The-Specials
